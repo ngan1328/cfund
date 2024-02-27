@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/congt/source/cpp/cfund/build/src",
+  "command": "C:\\Tools\\mingw\\bin\\g++.exe  @CMakeFiles/fundamental.dir/includes_CXX.rsp  -std=c++11 -g -o CMakeFiles\\fundamental.dir\\main.cpp.obj -c C:\\Users\\congt\\source\\cpp\\cfund\\src\\main.cpp",
+  "file": "C:/Users/congt/source/cpp/cfund/src/main.cpp",
+  "output": "src/CMakeFiles/fundamental.dir/main.cpp.obj"
+}
+]

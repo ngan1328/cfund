@@ -1,0 +1,3 @@
+C:\Users\congt\scoop\apps\cmake\3.28.1\bin\cmake.exe -E rm -f CMakeFiles\fundamental.dir/objects.a
+C:\Tools\mingw\bin\ar.exe qc CMakeFiles\fundamental.dir/objects.a @CMakeFiles\fundamental.dir\objects1.rsp
+C:\Tools\mingw\bin\g++.exe  -std=c++11 -g -Wl,--whole-archive CMakeFiles\fundamental.dir/objects.a -Wl,--no-whole-archive -o fundamental.exe -Wl,--out-implib,libfundamental.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\fundamental.dir\linkLibs.rsp
